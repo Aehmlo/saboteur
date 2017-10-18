@@ -1,0 +1,5 @@
+#!/usr/bin/env node
+
+const groupId = ''
+const apiKey = ''
+require('../index')(apiKey, groupId)
