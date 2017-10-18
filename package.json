@@ -1,0 +1,25 @@
+{
+  "private": true,
+  "name": "brutus",
+  "version": "0.0.1",
+  "description": "Et tu?",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^2.5.0",
+    "groupme": "^0.5.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aehmlo/saboteur.git"
+  },
+  "author": "Alex <npm@aehmlo.me> (https://aehmlo.me)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aehmlo/saboteur/issues"
+  },
+  "homepage": "https://github.com/aehmlo/saboteur#readme"
+}
